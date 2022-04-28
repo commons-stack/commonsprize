@@ -19,6 +19,6 @@ assignees: ''
 
 ## Do you have an idea for the name of this Commons?
 
-## If you have a nomination video already, share it now. 
+## Nomination video link
 
 ## Submitted by [Discord handle or Twitter handle]
