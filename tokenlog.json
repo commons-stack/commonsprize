@@ -1,0 +1,7 @@
+{
+    "org": "commons-stack",
+    "repo": "commonsprize",
+    "tokenAddress": "0x0f478Fc765Ed7a5C52627B0acDFa351FB94309e4",
+    "votingMethod": "QUADRATIC",
+    "chainId": 100
+}
